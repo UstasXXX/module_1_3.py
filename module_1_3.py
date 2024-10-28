@@ -1,0 +1,8 @@
+name = (str('yura'))
+print (name, (type (name)))
+age = (int(34))
+print (age, (type (age)))
+new_age = (int(35))
+print (new_age, type (new_age))
+is_student = (bool('true'))
+print ((is_student), type (is_student))
