@@ -1,8 +1,8 @@
-name = (str('yura'))
-print (name, (type (name)))
-age = (int(34))
-print (age, (type (age)))
-new_age = (int(35))
-print (new_age, type (new_age))
-is_student = (bool('true'))
-print ((is_student), type (is_student))
+name = 'yura'
+print (name)
+age = 34
+print (age)
+new_age = (35)
+print (new_age)
+is_student = True
+print (is_student)
